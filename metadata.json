@@ -1,0 +1,6 @@
+{
+  "name": "MoiBit Repair Phone",
+  "description": "Sistema de gestión integral para taller de reparación y venta de teléfonos móviles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

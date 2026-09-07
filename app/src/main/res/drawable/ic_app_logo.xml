@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Círculo de Fondo Suave -->
+    <path
+        android:fillColor="#1A002D40"
+        android:pathData="M50,50m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0" />
+
+    <!-- Cuerpo del Teléfono (Base) -->
+    <path
+        android:fillColor="@color/brandBlue"
+        android:pathData="M35,20h30c2.2,0 4,1.8 4,4v52c0,2.2 -1.8,4 -4,4h-30c-2.2,0 -4,-1.8 -4,-4v-52c0,-2.2 1.8,-4 4,-4z" />
+
+    <!-- Pantalla del Teléfono -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,25h24v42h-24z" />
+
+    <!-- Engrane Técnico (Símbolo de reparación) -->
+    <path
+        android:fillColor="@color/brandGreen"
+        android:pathData="M50,46c-4.4,0 -8,3.6 -8,8s3.6,8 8,8s8,-3.6 8,-8s-3.6,-8 -8,-8zM50,59c-2.8,0 -5,-2.2 -5,-5s2.2,-5 5,-5s5,2.2 5,5s-2.2,5 -5,5z" />
+    <path
+        android:fillColor="@color/brandGreen"
+        android:pathData="M51.5,42h-3v3.1c-0.5,0.1 -1,0.3 -1.5,0.5l-2.2,-2.2l-2.1,2.1l2.2,2.2c-0.2,0.5 -0.4,1 -0.5,1.5h-3.1v3h3.1c0.1,0.5 0.3,1 0.5,1.5l-2.2,2.2l2.1,2.1l2.2,-2.2c0.5,0.2 1,0.4 1.5,0.5v3.1h3v-3.1c0.5,-0.1 1,-0.3 1.5,-0.5l2.2,2.2l2.1,-2.1l-2.2,-2.2c0.2,-0.5 0.4,-1 0.5,-1.5h3.1v-3h-3.1c-0.1,-0.5 -0.3,-1 -0.5,-1.5l2.2,-2.2l-2.1,-2.1l-2.2,2.2c-0.5,-0.2 -1,-0.4 -1.5,-0.5V42z" />
+
+    <!-- Llave Inglesa (Símbolo de herramienta) -->
+    <path
+        android:fillColor="@color/brandGreen"
+        android:pathData="M63,72l-5,-5l3,-3l5,5c0.6,0.6 0.6,1.5 0,2.1l-0.9,0.9C64.5,72.6 63.6,72.6 63,72z" />
+
+    <!-- Brillo del Cristal -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M38,25l24,24v-24z" />
+
+</vector>

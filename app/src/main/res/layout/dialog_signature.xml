@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Firme aquí para aceptar los términos"
+        android:textColor="@color/textPrimary"
+        android:textStyle="bold" />
+
+    <com.example.SignatureView
+        android:id="@+id/signatureView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#EEEEEE" />
+
+    <TextView
+        android:id="@+id/btnClearSignature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:padding="8dp"
+        android:text="Limpiar Firma"
+        android:textColor="#ef4444"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Al firmar, el cliente acepta que si el equipo no es retirado en 90 días, pasará a propiedad del taller."
+        android:textAlignment="center"
+        android:textSize="10sp"
+        android:textColor="@color/textSecondary" />
+
+</LinearLayout>

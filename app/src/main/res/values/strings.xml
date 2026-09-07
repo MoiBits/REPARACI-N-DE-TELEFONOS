@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MoiBit Repair Phone</string>
+    <string name="hint_down_payment">Abono (%s)</string>
+    <string name="welcome_greeting">Bienvenido a</string>
+    <string name="default_admin_name">Mi Taller</string>
+    <string name="total_repairs_label">TOTAL REPARACIONES</string>
+    <string name="in_process_label">En proceso</string>
+    <string name="completed_label">Completadas</string>
+    <string name="status_received">Recibido</string>
+    <string name="status_repairing">En Taller</string>
+    <string name="status_ready">Listo</string>
+    <string name="status_delivered">Entregado</string>
+    <string name="weekly_summary_label">Resumen Semanal</string>
+    <string name="btn_new_order">Nueva Orden</string>
+
+    <string-array name="common_services">
+        <item>Cambio de Pantalla</item>
+        <item>Cambio de Batería</item>
+        <item>Cambio de Pin de Carga</item>
+        <item>Reparación de Tapa Trasera</item>
+        <item>Limpieza por Humedad / Sulfatado</item>
+        <item>Cambio de Cámara</item>
+        <item>Reparación de Altavoz / Auricular</item>
+        <item>Flasheo / Desbloqueo / Software</item>
+        <item>Reparación de Botones (Encendido/Volumen)</item>
+        <item>Mantenimiento General</item>
+        <item>Otro servicio...</item>
+    </string-array>
+</resources>

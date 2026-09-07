@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bento Grid Primary Theme Palette -->
+    <color name="brandBlue">#6750A4</color>
+    <color name="brandBlueDark">#21005D</color>
+    <color name="brandBlueLight">#EADDFF</color>
+    <color name="brandGreen">#2E6C4D</color>
+    <color name="brandGreenLight">#C4EED0</color>
+    <color name="brandPrimary">#6750A4</color>
+    <color name="colorAccent">#6750A4</color>
+
+    <!-- Bento Canvas & Surface Tokens -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surfaceVariant">#F3EDF7</color>
+    <color name="background">#FDF8FF</color>
+    <color name="backgroundSoft">#F3EDF7</color>
+    <color name="border">#CAC4D0</color>
+    <color name="divider">#CAC4D0</color>
+    <color name="brandDivider">#E8DEF8</color>
+
+    <!-- Bento Typography Tokens -->
+    <color name="textPrimary">#1C1B1F</color>
+    <color name="textSecondary">#49454F</color>
+    <color name="textInverse">#FDF8FF</color>
+    <color name="brandTextPrimary">#1C1B1F</color>
+    <color name="brandTextSecondary">#49454F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Bento Status Tokens -->
+    <color name="status_pending">#BA1A1A</color>
+    <color name="status_in_repair">#6750A4</color>
+    <color name="status_ready">#825500</color>
+    <color name="status_delivered">#2E6C4D</color>
+    <color name="status_text_pending">#BA1A1A</color>
+    <color name="status_text_in_repair">#21005D</color>
+    <color name="status_text_ready">#825500</color>
+    <color name="status_text_delivered">#1B5E20</color>
+
+    <!-- Bento Grid Specific Tile Containers -->
+    <color name="bento_lilac">#EADDFF</color>
+    <color name="bento_dark">#21005D</color>
+    <color name="bento_dark_container">#21005D</color>
+    <color name="bento_title_text">#21005D</color>
+    <color name="bento_purple">#6750A4</color>
+    <color name="bento_purple_subtle">#E8DEF8</color>
+    <color name="bento_pink">#FFD8E4</color>
+    <color name="bento_amber">#FFE7B6</color>
+    <color name="bento_mint">#C4EED0</color>
+    <color name="bento_coral">#FFDAD6</color>
+    <!-- Bento Tile Border/Stroke Tokens -->
+    <color name="bento_stroke_lilac">#D0BCFF</color>
+    <color name="bento_stroke_dark">#4F378B</color>
+    <color name="bento_stroke_amber">#FFDDAF</color>
+    <color name="bento_stroke_mint">#A6DFB6</color>
+    <color name="bento_stroke_coral">#F2B8B5</color>
+    <color name="bento_card_border">#CAC4D0</color>
+</resources>
